@@ -1,14 +1,13 @@
 Marcação HTML de elementos de interface utilizados em nossas interfaces e que podem ser utilizados em aplicações de terceiros, garantindo a padronização da identidade visual dos componentes de acordo com os style-guides da nossa marca.
 
 ## Components list - HTML
-* Cards
-* Dropdowns
-* Bread crumbs
+* Form
+* Card
+* Dropdown
+* Breadcrumb
 * Navbar
-* Menu
 * Modal
-* Progress bars
-* Footer
+* Progress-bar
 
 ## Design tokens - CSS
 * Font Sizes
@@ -22,4 +21,4 @@ Marcação HTML de elementos de interface utilizados em nossas interfaces e que 
 * Sizing
 * Animation Durations
 * Media Queries
-* z-indexes
+* Z-indexes
