@@ -1,6 +1,6 @@
+## Components list - HTML
 Marcação HTML de elementos de interface utilizados em nossas interfaces e que podem ser utilizados em aplicações de terceiros, garantindo a padronização da identidade visual dos componentes de acordo com os style-guides da nossa marca.
 
-## Components list - HTML
 * Form
 * Card
 * Dropdown
